@@ -1,5 +1,4 @@
 🦡 Olá! Eu sou Danylo Oliveira !
-Linkedin     Instagram     Email     Facebook     Twitter
 
 
 🎂 27 anos
@@ -8,7 +7,5 @@ Linkedin     Instagram     Email     Facebook     Twitter
 🍿 Viciado em séries
 👨🏼‍💻 Sempre aprendendo alguma ferramenta nova
 
-🦉 Linguagens já utilizadas
-
-
-                                    
+🦉 Linguagens já utilizadas:
+    
