@@ -9,3 +9,10 @@
 
 🦉 Linguagens já utilizadas:
     
+-HTML
+-CSS
+-Python
+-React
+-React Native
+-Node JS
+-Java
